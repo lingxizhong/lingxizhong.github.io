@@ -1,0 +1,16 @@
+﻿#fgeneral #about {
+    width: 975px;
+    margin: 0 auto;
+    height: 750px;
+    color: black;
+    font-family: 'Raleway', sans-serif;
+    text-align: left;
+    text-wrap: normal;
+    font-size: 20px;
+}
+ul.a {
+    list-style-type: circle;
+}
+ul.b {
+    list-style-type: circle;
+}
